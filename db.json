@@ -1,11 +1,23 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "users":{
+    "count":3,
+    "results":[
+      {
+        id:1,
+        usarname:"Dhako",
+        deck:[2,6,7,76,23]
+      },
+      {
+        id:2,
+        usarname:"Scaflam",
+        deck:[1,22,89,13,4]
+      },
+      {
+        id:3,
+        usarname:"Nedrinnom",
+        deck:[9,18,27,99,100]
+      }
+    ]
   }
+  
 }
