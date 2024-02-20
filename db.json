@@ -2,17 +2,17 @@
   "users":[
       {
         "id":1,
-        "usarname":"Dhako",
+        "username":"Dhako",
         "deck":[2,6,7,76,23]
       },
       {
         "id":2,
-        "usarname":"Scaflam",
+        "username":"Scaflam",
         "deck":[1,22,89,13,4]
       },
       {
         "id":3,
-        "usarname":"Nedrinnom",
+        "username":"Nedrinnom",
         "deck":[9,18,27,99,100]
       }
     ]
